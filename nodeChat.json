@@ -1,0 +1,16 @@
+﻿{
+    "name": "nodeChat"
+  , "version": "0.0.1"
+  , "description": "un chat de nodeJs con dependencias a express y socket.io de NPM."
+  , "maintainers": [
+       {
+           "name": "Andres Aldana",
+           "email": "u-roboro@hotmail.com",
+           "web": "" 
+       } 
+    ]	
+  , "dependencies": {
+      "express": "2.5.1"
+    , "socket.io": ">= 0.2.3"
+  }
+}
