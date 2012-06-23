@@ -3,4 +3,6 @@ build/
 .project
 *.db
 *.[oa]
+a
+a.pub
 *~
