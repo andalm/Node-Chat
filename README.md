@@ -5,13 +5,13 @@ Chat creado con HTML5, CSS3, JavaScript e implementación de nodeJS (Node-Chat v
 
 ## Dependencias
 
-[Socket.io][https://github.com/LearnBoost/Socket.IO]
-[express]: https://github.com/visionmedia/express
+  1. Socket.io: https://github.com/LearnBoost/Socket.IO
+  2. express: https://github.com/visionmedia/express
 
 
 ## Autor
 
-[@andalm]: https://github.com/andalm
+**Andres Aldana M:** https://github.com/andalm
 
 
 
